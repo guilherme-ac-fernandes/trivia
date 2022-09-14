@@ -20,5 +20,5 @@ npm test // para rodar os testes da aplicação
 👨🏻‍💻 **Acessar:** _[Clique Aqui](https://trivia-pink.vercel.app)_
 
 <p align="center">
-  <img src="" alt="Trivia - Demostração"/>
+  <img src="https://github.com/guilherme-ac-fernandes/trivia/blob/main/trivia.png" alt="Trivia - Demostração"/>
 </p>
