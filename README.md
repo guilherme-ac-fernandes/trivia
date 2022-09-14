@@ -1,5 +1,4 @@
 # 🚧 README em construção 🚧
-
 <!-- Olá, Tryber!
 
 Esse é apenas um arquivo inicial para o README do seu projeto.
@@ -14,3 +13,5 @@ Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua cr
 - quais arquivos/pastas foram desenvolvidos pela Trybe.
 
 -->
+
+[site](https://trivia-pink.vercel.app)
